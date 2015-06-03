@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+There is a .DS Store file which is added
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Manually being able to choose what files to track for changes

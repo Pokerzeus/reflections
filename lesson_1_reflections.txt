@@ -1,0 +1,21 @@
+Why to use version control?
+Easily comparable versions
+Makes it far more easy to detect mistakes without having to start all over again
+
+Pros & Cons of manual commit:
+Pros of manual commit: flexibility, structural logic in terms of changes
+Cons of manual commmit: needs discipline to execute, no fall back option once forgotten
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Because Git knows the logic of programming where files are dependent of each other
+
+How can you use the commands git log and git diff to view the history of files?
+Use git log in order to identify the different commits
+Then use git diff to compare two versions and track changes
+
+How might using version control make you more confident to make changes that could break something?
+Because it is so easy to restore older versions
+Because you can always track the changes and thus find out, what bug caused what
+
+Now that you have your workspace set up, what do you want to try using Git for?
+General experiments regarding code
